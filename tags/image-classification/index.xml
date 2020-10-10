@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Classification on Sujan K.</title>
+    <link>https://iamsuzank.github.io/suzanwrites/tags/image-classification/</link>
+    <description>Recent content in Image Classification on Sujan K.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://iamsuzank.github.io/suzanwrites/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Breast Cancer Prediction</title>
+      <link>https://iamsuzank.github.io/suzanwrites/post/breastcancer/</link>
+      <pubDate>Tue, 09 Apr 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://iamsuzank.github.io/suzanwrites/post/breastcancer/</guid>
+      <description>1.Dataset    The dataset was originally curated by Janowczyk and Madabhushi and Roa et al. but is available in public domain on Kaggle’s website. The original dataset consisted of 162 slide images scanned at 40x. For our system we have converted the images to 50×50 pixel. Slide images are naturally massive (in terms of spatial dimensions), so in order to make them easier to work with, a total of 277,524 patches of 50×50 pixels were extracted, including:</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Pneumonia Prediction</title>
+      <link>https://iamsuzank.github.io/suzanwrites/post/pneumoniadetection/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://iamsuzank.github.io/suzanwrites/post/pneumoniadetection/</guid>
+      <description>Live Deployment</description>
+    </item>
+    
+  </channel>
+</rss>
